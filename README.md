@@ -2,9 +2,7 @@
 
 **用中文描述需求，找到现代 Web 平台的对应指南。**
 
-基于 [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) 的小幅适配，独立维护、非官方。
-
-## 保留什么
+## 功能与流程
 
 保留上游的检索、取回指南、核对实现和说明采用依据的完整流程，以及浏览器兼容性与回退要求。附带 **210 份原始指南快照**，覆盖 HTML、CSS、性能、可访问性和浏览器能力。
 
@@ -20,7 +18,9 @@ npx skills add batespaige357-tech/modern-web-guidance-cn --skill modern-web-guid
 
 动态检索仍依赖上游 `modern-web-guidance` CLI、Node.js 和网络；本仓库没有同名 CLI，也没有捆绑其实现。指南快照可本地查阅，但不保证是最新浏览器支持情况。宽范围现代化扫描只适用于用户明确要求的任务。
 
-## 来源与检查
+## 来源与许可
+
+基于 [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)，由本仓库维护。
 
 Apache-2.0，保留完整许可证，并在 [NOTICE](NOTICE) 与 [CHANGES.md](CHANGES.md) 标明来源和改动。不使用上游品牌图片。
 

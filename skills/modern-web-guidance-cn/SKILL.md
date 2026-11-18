@@ -92,7 +92,7 @@ npx -y modern-web-guidance@latest legacy-scan <path> --json
 
 ## 中文检索适配 — modern-web-guidance-cn 新增
 
-独立非官方适配；命令仍调用原 modern-web-guidance 包，不存在名为 modern-web-guidance-cn 的 CLI。保留上游 search → retrieve → 实现核对 → 披露所用指南的流程和原兼容性规则。
+命令仍调用原 modern-web-guidance 包，不存在名为 modern-web-guidance-cn 的 CLI。保留上游 search → retrieve → 实现核对 → 披露所用指南的流程和原兼容性规则。
 
 ### 把中文需求转成平台能力
 
